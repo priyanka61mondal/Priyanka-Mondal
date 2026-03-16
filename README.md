@@ -1,21 +1,23 @@
-# Hi there 👋 I'm Priyanka Mondal
+# Hi, I'm Priyanka Mondal 👋
 
-💻 Aspiring Data Analyst | Former MIS Analyst  
-📊 Passionate about transforming data into meaningful insights
-
----
-
-## 👩‍💻 About Me
-
-I have **2 years and 4 months of experience as an MIS Analyst**, where I worked with data reporting, dashboards, and business insights. My role involved handling large datasets, preparing reports, and supporting teams with accurate data for decision-making.
-
-Currently, I am taking a short break to **upgrade my skills and transition into a Data Analyst role**. I am actively learning and building projects using **Python, SQL, and Power BI** to strengthen my data analysis and visualization skills.
-
-I enjoy exploring data, finding patterns, and presenting insights that can help organizations make better decisions.
+📊 Aspiring Data Analyst | Former MIS Analyst (2+ years experience)  
+🔎 Passionate about turning raw data into meaningful insights
 
 ---
 
-## 🛠 Skills & Tools
+## 🚀 About Me
+
+I am an aspiring **Data Analyst** with **2 years and 4 months of professional experience as an MIS Analyst**. During my previous role, I worked extensively with data reporting, business metrics, and performance tracking, helping teams make informed decisions through structured and accurate reports.
+
+Working closely with data sparked my interest in deeper analysis and data-driven problem solving. To pursue this passion, I am currently focusing on **upskilling in modern data analytics tools** such as **Python, SQL, and Power BI**.
+
+I enjoy exploring datasets, identifying patterns, and presenting insights through visualizations and dashboards that support smarter business decisions.
+
+My goal is to combine my **real-world MIS experience with advanced analytics skills** to build impactful data solutions and grow as a Data Analyst.
+
+---
+
+## 🧠 Skills & Tools
 
 **Data Analysis**
 - Python (Pandas, NumPy)
@@ -23,7 +25,7 @@ I enjoy exploring data, finding patterns, and presenting insights that can help 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 
-**Visualization**
+**Data Visualization**
 - Power BI
 - Matplotlib
 - Seaborn
@@ -35,35 +37,47 @@ I enjoy exploring data, finding patterns, and presenting insights that can help 
 
 ---
 
-## 📊 Projects
+## 📊 What I'm Working On
 
-🔹 **Sales Data Analysis (Python)**  
-Analyzed sales data to identify trends and patterns using Pandas and Matplotlib.
+- Building **Python data analysis projects**
+- Creating **interactive Power BI dashboards**
+- Practicing **SQL for data analytics**
+- Strengthening my **data visualization and storytelling skills**
 
-🔹 **Power BI Business Dashboard**  
-Created an interactive dashboard to track business KPIs and performance.
+---
 
-🔹 **Data Cleaning Project**  
-Performed data cleaning and preprocessing to prepare datasets for analysis.
+## 📂 Featured Projects
 
-*(More projects coming soon as I continue learning and building!)*
+🔹 **Sales Data Analysis using Python**  
+Analyzed sales dataset to uncover trends and insights using Pandas and Matplotlib.
+
+🔹 **Interactive Business Dashboard (Power BI)**  
+Designed a dashboard to visualize key business metrics and performance indicators.
+
+🔹 **Data Cleaning & Analysis Project**  
+Performed preprocessing and analysis to prepare raw datasets for meaningful insights.
+
+*(More projects coming soon as I continue building my portfolio.)*
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Python for Data Analysis
-- SQL for Data Analytics
+- SQL Query Optimization
 - Power BI Dashboard Design
 - Data Visualization Best Practices
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-💼 LinkedIn: (Add your LinkedIn link)  
-📧 Email: (Add your email)
+💼 LinkedIn  
+https://www.linkedin.com/in/priyanka4296/
+
+📧 Email  
+priyanka61mondal@gmail.com
 
 ---
 
-⭐ *Always learning, always exploring data.*
+⭐ *"Data tells a story — I enjoy discovering and communicating it."*
